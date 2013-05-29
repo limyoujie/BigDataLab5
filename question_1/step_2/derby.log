@@ -1,0 +1,32 @@
+----------------------------------------------------------------
+2013-05-28 22:44:00.358 GMT:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.5.3.2 - (1073208): instance a816c00e-013e-ed4f-f39b-000000583958 
+on database directory /home/labuser20/bigdata/step_2/TempStatsStore  with class loader sun.misc.Launcher$AppClassLoader@3d073d07 
+Loaded from file:/mnt/biginsights/opt/ibm/biginsights/hive/lib/derby-10.5.3.1.jar
+java.vendor=IBM Corporation
+java.runtime.version=pxa6460sr11-20120806_01 (SR11)
+java.fullversion=JRE 1.6.0 IBM J9 2.4 Linux amd64-64 jvmxa6460sr11-20120801_118201 (JIT enabled, AOT enabled)
+J9VM - 20120801_118201
+JIT  - r9_20120608_24176ifx1
+GC   - 20120516_AA
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+
+Tue May 28 18:44:01 EDT 2013:
+Shutting down instance a816c00e-013e-ed4f-f39b-000000583958 on database directory /home/labuser20/bigdata/step_2/TempStatsStore with class loader sun.misc.Launcher$AppClassLoader@3d073d07 
+----------------------------------------------------------------
+2013-05-28 22:44:16.058 GMT:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.5.3.2 - (1073208): instance 846c00a0-013e-ed4f-f39b-000000583958 
+on database directory /home/labuser20/bigdata/step_2/TempStatsStore  with class loader sun.misc.Launcher$AppClassLoader@3d073d07 
+Loaded from file:/mnt/biginsights/opt/ibm/biginsights/hive/lib/derby-10.5.3.1.jar
+java.vendor=IBM Corporation
+java.runtime.version=pxa6460sr11-20120806_01 (SR11)
+java.fullversion=JRE 1.6.0 IBM J9 2.4 Linux amd64-64 jvmxa6460sr11-20120801_118201 (JIT enabled, AOT enabled)
+J9VM - 20120801_118201
+JIT  - r9_20120608_24176ifx1
+GC   - 20120516_AA
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+
+Tue May 28 18:44:16 EDT 2013:
+Shutting down instance 846c00a0-013e-ed4f-f39b-000000583958 on database directory /home/labuser20/bigdata/step_2/TempStatsStore with class loader sun.misc.Launcher$AppClassLoader@3d073d07 
